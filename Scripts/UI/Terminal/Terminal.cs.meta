@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 1b76e85dec885f442bae1bb6bfd65896
+timeCreated: 1516270461
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Erase: {instanceID: 0}
+  - btn0: {instanceID: 0}
+  - btn1: {instanceID: 0}
+  - btn2: {instanceID: 0}
+  - btn3: {instanceID: 0}
+  - btn4: {instanceID: 0}
+  - btn5: {instanceID: 0}
+  - btn6: {instanceID: 0}
+  - btn7: {instanceID: 0}
+  - btn8: {instanceID: 0}
+  - btn9: {instanceID: 0}
+  - Show: {instanceID: 0}
+  - Explanation: {instanceID: 0}
+  - panel: {instanceID: 0}
+  - Wrong: {instanceID: 0}
+  - Attente: {fileID: 1289472098140804, guid: 525589916ebf11b4ba70f0935ad19c59, type: 2}
+  - ErrorHack: {fileID: 8300000, guid: 572b8655c61ab46419c4d41af4c0b3dc, type: 3}
+  - OpenHackCommand: {fileID: 8300000, guid: d27b2d745e996fb4fb9d8f7878ee94f9, type: 3}
+  - audioAscenceur: {fileID: 8300000, guid: 806de1be83bdd344c8fe45e927f95812, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
